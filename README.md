@@ -142,28 +142,28 @@ $ git clone -b glibc-2.26 https://github.com/HMAhmadCS/safe-linking-backport.git
 ```
 For **glibc 2.27**:
 ```bash
-$ git clone -b glibc-2.27 https://github.com/HMAhmadCS/safe-linking-backport.git`
+$ git clone -b glibc-2.27 https://github.com/HMAhmadCS/safe-linking-backport.git
 ```
 For **glibc 2.28**:
 ```bash### 🔨 Build Process
-$ git clone -b glibc-2.28 https://github.com/HMAhmadCS/safe-linking-backport.git`
+$ git clone -b glibc-2.28 https://github.com/HMAhmadCS/safe-linking-backport.git
 ```
 For **glibc 2.29**:
 ```bash
-$ git clone -b glibc-2.29 https://github.com/HMAhmadCS/safe-linking-backport.git`
+$ git clone -b glibc-2.29 https://github.com/HMAhmadCS/safe-linking-backport.git
 ```
 For **glibc 2.30**:
 ```bash
-$ git clone -b glibc-2.30 https://github.com/HMAhmadCS/safe-linking-backport.git`
+$ git clone -b glibc-2.30 https://github.com/HMAhmadCS/safe-linking-backport.git
 ```
 
 For **glibc 2.31** (default Branch):
 ```bash
-$ git clone https://github.com/HMAhmadCS/safe-linking-backport.git`
+$ git clone https://github.com/HMAhmadCS/safe-linking-backport.git
 ```
 OR:
 ```bash
-$ git clone -b main https://github.com/HMAhmadCS/safe-linking-backport.git`
+$ git clone -b main https://github.com/HMAhmadCS/safe-linking-backport.git
 ```
 
 
